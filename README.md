@@ -1,6 +1,6 @@
 To run:
 1. Run `pip install -r requirements.txt --upgrade` in console from this folder.
-2. Create app and get your API keys at https://my.telegram.org. Then specify your API keys in `.env` file.
+2. Create app and get your API keys at https://my.telegram.org. Then specify your API keys and target chat/group name in `.env` file.
 3. Run `py telegram.py` in console from this folder.
 4. Type your number in international format and a code that you recieved as a message.
 
